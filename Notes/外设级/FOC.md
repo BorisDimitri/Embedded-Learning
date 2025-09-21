@@ -60,8 +60,6 @@ FOC本质上是一个电机旋转运动的数学模型
 
 <img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250822233820698.png" alt="image-20250822233820698" style="zoom:25%;" />
 
- 
-
 电角度$\theta$是由编码器实时测出的值
 
 $I_q,I_d$ 为建系时指定的，可以视为定值

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Administrator/Desktop/keyboard/ZWM"
+		},
+		{
+			"name": "FOC",
+			"path": "FOC/FOC"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp"
+		}
+	}
+}
